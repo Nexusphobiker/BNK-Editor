@@ -1,0 +1,6 @@
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\bin\Debug\BnkEditor.exe.config
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\bin\Debug\BnkEditor.exe
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\bin\Debug\BnkEditor.pdb
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\obj\Debug\BnkEditor.csprojResolveAssemblyReference.cache
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\obj\Debug\BnkEditor.exe
+C:\Users\Spodes\Desktop\PreyModKit\BnkEditor\BnkEditor\obj\Debug\BnkEditor.pdb
